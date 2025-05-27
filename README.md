@@ -12,7 +12,9 @@ Este projeto foi desenvolvido para a empresa **Montink**. O desafio consistiu em
     </td>
     <td width="50%">
       <p><strong>Mobile</strong></p>
-      <img alt="Mobile" src="/public/layout-mobile.png" width="35%">
+     <div align="center">
+    <img alt="Mobile" src="/public/layout-mobile.png" width="35%">
+  </div>
     </td>
   </tr>
 </table>
