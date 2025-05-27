@@ -155,13 +155,13 @@ export const useStore = create<StoreProps>()(
       },
 
       setSelectedSize: (size: SizeOption) => {
-        set({ selectedSize: size })
+        set({ selectedSize: size, quantity: 1 })
         storage.renewExpiration()
       },
 
       load: async () => {
         set({ isLoadingProduct: true })
-        await new Promise((resolve) => setTimeout(resolve, 1000))
+        await new Promise((resolve) => setTimeout(resolve, 700))
 
         const storedData = storage.load()
 
