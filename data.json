@@ -1,0 +1,27 @@
+{
+  "id": "1",
+  "title": "Smartphone Samsung Galaxy S24 Ultra",
+  "price": 4299.99,
+  "originalPrice": 4999.99,
+  "rating": 4.7,
+  "reviews": 1247,
+  "images": [
+    "/imagem2.webp",
+    "/imagem1.webp",
+    "/imagem5.webp",
+    "/imagem3.webp",
+    "/imagem4.webp"
+  ],
+  "colors": [
+    { "name": "Preto Titânio", "value": "#2C2C2C", "stock": 15 },
+    { "name": "Violeta", "value": "#8B5CF6", "stock": 8 },
+    { "name": "Amarelo", "value": "#FDE047", "stock": 12 },
+    { "name": "Verde", "value": "#22C55E", "stock": 5 }
+  ],
+  "sizes": [
+    { "name": "128GB", "price": 3799.99, "stock": 10 },
+    { "name": "256GB", "price": 4299.99, "stock": 15 },
+    { "name": "512GB", "price": 4899.99, "stock": 7 },
+    { "name": "1TB", "price": 5499.99, "stock": 3 }
+  ]
+}
