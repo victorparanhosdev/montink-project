@@ -1,8 +1,8 @@
-### 📝 Descrição do Projeto
+## 📝 Descrição do Projeto
 
 Este projeto foi desenvolvido para a empresa **Montink**. O desafio consistiu em criar uma página de produto de e-commerce utilizando **React** e **TailwindCSS**, com funcionalidades interativas e dinâmicas inspiradas em grandes plataformas como **Mercado Livre**, **Shopee** e **Amazon**.
 
-### 📱 Layout da Aplicação
+## 📱 Layout da Aplicação
 
 <table>
   <tr align="left" valign="top">
@@ -19,7 +19,7 @@ Este projeto foi desenvolvido para a empresa **Montink**. O desafio consistiu em
   </tr>
 </table>
 
-### 🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - 📸 Visualização de imagens do produto com miniaturas clicáveis
 
@@ -31,7 +31,7 @@ Este projeto foi desenvolvido para a empresa **Montink**. O desafio consistiu em
 
 - ✅ Interface totalmente responsiva e inspirada em grandes e-commerces
 
-### 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **React**: Biblioteca para construção da interface
 
@@ -43,7 +43,7 @@ Este projeto foi desenvolvido para a empresa **Montink**. O desafio consistiu em
 
 - **LocalStorage com tempo de expiração**: Para persistência temporária das ações do usuário
 
-### 🔧 Instalação e Configuração
+## 🔧 Instalação e Configuração
 
 Pré-requisitos
 
