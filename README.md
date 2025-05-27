@@ -12,7 +12,7 @@ Este projeto foi desenvolvido para **Montink**. O desafio consistiu em criar uma
     </td>
     <td width="50%">
       <p><strong>Mobile</strong></p>
-      <img alt="Mobile" src="/public/layout-mobile.png" width="100%">
+      <img alt="Mobile" src="/public/layout-mobile.png" width="35%">
     </td>
   </tr>
 </table>
